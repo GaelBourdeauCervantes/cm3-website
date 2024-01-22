@@ -3,7 +3,7 @@ title: Lol
 ---
 
 This is the home page of Rahul's CM3 website.
-Not Anymore **word**
+**Not Anymore**
 
 ## A smaller level Heading
 
