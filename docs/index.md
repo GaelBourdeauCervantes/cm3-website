@@ -35,3 +35,7 @@ Here is an image:
 ![cute dog](https://i.imgur.com/dY93WHQ.jpeg)
 
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
+
+
+
+**This is the link to the other webpage:** [a link](gaelPage.md)
