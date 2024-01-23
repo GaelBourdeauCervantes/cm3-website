@@ -10,7 +10,7 @@ And this is the second line.
 This is w and he works ***very*** hard.
 
 
-![W working]()
+![W working](image_67218433.JPG)
 
 
 [Go back to the previous webpage:](index.md)
