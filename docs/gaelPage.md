@@ -13,6 +13,6 @@ This is **W** working ***very*** hard.
 ![W working](image_67218433.JPG)
 
 
-[Go back to the previous webpage:](index.md)
+[Go back to the previous webpage](index.md)
 
 
