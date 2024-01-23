@@ -37,5 +37,4 @@ Here is an image:
 This page illustrates low code principles. In exchange for giving up pixel-level control of the page you can make web pages easily through a simple text file.
 
 
-
-**This is the link to the other webpage:** [a link](gaelPage.md)
+[This is the link to the other webpage:](gaelPage.md)
